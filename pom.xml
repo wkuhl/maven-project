@@ -183,11 +183,6 @@
 			<version>${mule.version}</version>
 			<scope>provided</scope>
 		</dependency>
-		<dependency>
-			<groupId>f42eb361-2693-4a4e-a880-595f7578b7e5</groupId>
-			<artifactId>mule-module-edi_outbound_invoice_894</artifactId>
-			<version>1.0.0</version>
-		</dependency>
 	</dependencies>
 
 	<repositories>
